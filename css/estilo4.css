@@ -1,0 +1,73 @@
+*
+{
+    margin: 0px;
+}
+.padre
+{
+    background-color: red;
+    padding: 200px;
+    width: 300px; /*la propiedad del padre se hereda*/
+    border-radius: 800px;
+    margin:20px;
+
+}
+.hijo
+{
+    background-color: yellow;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 70%;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+.nieto
+{
+    background-color: greenyellow;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 70%;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+.bisnieto
+{
+    background-color:aqua;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 70%;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+.h{
+    background-color:blueviolet;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 70%;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+.m
+{
+    background-color:blue;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 70%;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+.n
+{
+    background-color:darkslategray;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 70%;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+
